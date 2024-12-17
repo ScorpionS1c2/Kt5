@@ -1,0 +1,26 @@
+.wrapper {
+    background-color: aquamarine;
+}
+.header {
+    background-color: aqua;
+}
+.conteiner {
+    background-color: blueviolet;
+}
+.header__body {
+    background-color: brown;
+}
+.header-logo {
+    background-color: coral;
+    .home {
+        background-color: darkmagenta;
+        border-radius: 200px;
+    }
+    .about_company {
+        background-color: blue;
+        position: relative;
+        bottom: 100px;
+    }
+}
+
+
